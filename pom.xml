@@ -18,12 +18,12 @@
 
 	<dependencies>
 
-		<!-- Link backend project -->
+		<!-- Link backend project 
 		<dependency>
 			<groupId>com.sk</groupId>
 			<artifactId>arsbackend</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		</dependency>-->
 
 		<!-- JAVA EE -->
 		<dependency>
