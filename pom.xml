@@ -25,13 +25,13 @@
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>-->
 
-		<!-- JAVA EE -->
+		<!-- JAVA EE 
 		<dependency>
 			<groupId>javax</groupId>
 			<artifactId>javaee-api</artifactId>
 			<version>${javaee.version}</version>
 			<scope>provided</scope>
-		</dependency>
+		</dependency>-->
 
 		<!-- JUNIT -->
 		<dependency>
